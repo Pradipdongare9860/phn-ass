@@ -1,0 +1,9 @@
+Admin Login
+
+User name : admin@gmail.com
+Password : admin123
+
+Customer Login
+
+User name : pradip@gmail.com
+Password : pradip123
